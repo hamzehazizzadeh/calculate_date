@@ -1,0 +1,29 @@
+{
+  "name": "date-calculate",
+  "version": "0.1.0",
+  "description": "Calculate your age and dates",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "clc-date",
+    "clc date",
+    "date-calculate",
+    "date calculate",
+    "calculate_date",
+    "calculate date",
+    "calculate_age",
+    "calculate age",
+    "time ago",
+    "date ago"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzehazizzadeh/calculate_date.git"
+  },
+  "author": "Hamzeh Azizzadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamzehazizzadeh/calculate_date/issues"
+  }
+}
