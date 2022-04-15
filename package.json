@@ -1,9 +1,9 @@
 {
   "name": "date-calculate",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Calculate your age and dates",
   "scripts": {
-    "start": "node ."
+    "build": "tsc"
   },
   "keywords": [
     "clc-date",
@@ -25,5 +25,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hamzehazizzadeh/calculate_date/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
   }
 }
